@@ -50,11 +50,23 @@ a.   KVL:
 
 b.  KCL:
 <img width="754" height="438" alt="image" src="https://github.com/user-attachments/assets/7c14acee-16b6-4646-b491-ce6c00c121e4" />
- 
+
+calculation of KCL:
+
 ![IMG-20251004-WA0001](https://github.com/user-attachments/assets/18b71e5f-4e2b-41c8-8227-97f7e1adb14d)
+
+tabulation of KCL:
+
 ![IMG-20251004-WA0002](https://github.com/user-attachments/assets/292cec1b-eab2-4e72-8f9c-b0c7b8cd8bd8)
+
+calculation of KVL:
+
 ![IMG-20251004-WA0003](https://github.com/user-attachments/assets/f9040739-713b-4b3a-bc79-f3557eed2983)
+
+tabulation of KVL:
+
 ![IMG-20251004-WA0004](https://github.com/user-attachments/assets/9237ee12-5834-4376-a0b3-cb390d27f842)
+
 ![IMG-20251004-WA0005](https://github.com/user-attachments/assets/3e081a72-66a9-4ab0-80d5-ef1f93a3ff16)
 
 
